@@ -5,4 +5,5 @@
 3. Click the "Install" button
 ## 📄 Userscripts
 Click a userscript below to install it <br>
-[🛑 RickStopper](https://github.com/ItsFoxDev/Userscripts/raw/main/RickStopper/script.user.js) - Blocks rickrolls
+[🛑 RickStopper](https://github.com/ItsFoxDev/Userscripts/raw/main/RickStopper/script.user.js) - Blocks rickrolls <br>
+[⬇️ YLoader](https://github.com/ItsFoxDev/Userscripts/raw/main/YLoader/script.user.js) - Makes the download button on YouTube work
