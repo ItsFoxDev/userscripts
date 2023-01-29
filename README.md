@@ -6,5 +6,9 @@
 ## 📄 Userscripts
 Click a userscript below to install it <br>
 [🛑 RickStopper](https://github.com/ItsFoxDev/Userscripts/raw/main/RickStopper/script.user.js) - Blocks rickrolls <br>
-[⬇️ YLoader](https://github.com/ItsFoxDev/Userscripts/raw/main/YLoader/script.user.js) - Makes the download button on YouTube work<br>
 [🔐 QLbypass](https://github.com/ItsFoxDev/Userscripts/raw/main/QLbypass.user.js) - Bypasses the Quora login<br>
+
+## 📜 Deprecated
+Here are some userscripts that are no longer supported/functional.
+
+[⬇️ YLoader](https://github.com/ItsFoxDev/Userscripts/raw/main/YLoader/script.user.js) - Makes the download button on YouTube work<br> 
